@@ -1,2 +1,2 @@
 <?php
-  echo "searchです"
+  echo "searchです";
