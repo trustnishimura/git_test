@@ -1,6 +1,3 @@
 <?php
 echo 'test';
 ?>
-
-
-
